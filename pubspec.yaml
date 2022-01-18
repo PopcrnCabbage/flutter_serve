@@ -1,0 +1,20 @@
+name: flutter_serve
+description: A package which simplifies the task of updating your Flutter app's data.
+version: 0.1.0
+maintainer: Kapustin Yaroslav (@StarCabbage)
+
+dependencies:
+  path: ^1.8.0
+  http: ^0.13.3
+  args: ^2.0.0
+  yaml: ^3.1.0
+  yaml_edit: ^2.0.0
+  dart_style: ^2.0.0
+  dart_console: ^1.0.0
+  diff_match_patch: ^0.3.0
+  pedantic: ^1.11.0
+  resource_portable: ^3.0.0
+
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
